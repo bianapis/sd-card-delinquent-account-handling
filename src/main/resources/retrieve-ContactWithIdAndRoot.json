@@ -1,0 +1,13 @@
+{
+  "correspondenceReference" : "COOR1230",
+  "cardDeliquentAccountContacttRecord" : {},
+  "cardDelinquentAccountProcessingRecord" : {},
+  "cardDeliquentAccountContactTaskRecord" : {},
+  "cardDelinquentAccountProcessingReference" : "CDPR1037",
+  "cardDeliquentAccountContactTaskReference" : "CDCR3242",
+  "contactReference" : "CONR2120",
+  "correspondenceContent" : "Content",
+  "documentReference" : "DOCR1231",
+  "documentContent" : "DocumentCopy",
+  "cardDelinquentAccountProcessingSchedule" : "ProcessingSchedule"
+}

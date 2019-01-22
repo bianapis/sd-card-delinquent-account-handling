@@ -1,0 +1,8 @@
+{
+  "cardDelinquentAccountProcessingRecord" : {},
+  "cardDeliquentAccountAssessmentTaskReference" : "CDTR4224",
+  "cardDelinquentAccountProcessingReference" : "CDPR1037",
+  "cardDeliquentAccountAssessmentRecord" : {},
+  "cardDelinquentAccountProcessingSchedule" : "ProcessingSchedule",
+  "cardDeliquentAccountAssessmentTaskRecord" : {}
+}

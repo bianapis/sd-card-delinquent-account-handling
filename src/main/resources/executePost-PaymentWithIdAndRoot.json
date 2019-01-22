@@ -1,0 +1,8 @@
+{
+  "paymentTransactionReference" : "PYTR9301",
+  "cardDelinquentAccountProcessingReference" : "CDPR1037",
+  "cardDeliquentAccountPaymentNotificationTaskRecord" : {},
+  "cardDeliquentAccountPaymentNotificationTaskReference" : "CDPN1205",
+  "paymentTransaction" : "StandardPayment",
+  "cardDelinquentAccountProcessingSchedule" : "ProcessingSchedule"
+}

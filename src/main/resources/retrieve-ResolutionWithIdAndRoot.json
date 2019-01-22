@@ -1,0 +1,7 @@
+{
+  "cardDeliquentAccountResolutionTaskReference" : "CDPR5830",
+  "cardDelinquentAccountProcessingReference" : "CDPR1037",
+  "cardDeliquentAccountResolutionTaskRecord" : {},
+  "cardDelinquentAccountResolutionActionPlan" : "ProcessingDetails",
+  "cardDelinquentAccountProcessingSchedule" : "ProcessingSchedule"
+}
